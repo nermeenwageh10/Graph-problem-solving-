@@ -1,4 +1,4 @@
-# Graph-problem-solving-
+# Graph-Problems 
 
 Sharing some topic wise good Graph problems and sample solutions to observe on how to approach.
 -Union Find
