@@ -1,4 +1,5 @@
 class Solution:
+    #number of islands 
     def numIslands(self, grid: List[List[str]]) -> int:
         islands = 0
         #make a hashset to prevent visit of nodes more one time
